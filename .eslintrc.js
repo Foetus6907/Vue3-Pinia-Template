@@ -10,8 +10,6 @@ module.exports = {
     "@vue/prettier",
     "@vue/typescript/recommended",
     "plugin:vue/vue3-essential",
-    "plugin:storybook/recommended",
-    "plugin:markdown/recommended",
   ],
   parserOptions: {
     ecmaVersion: 2020,
